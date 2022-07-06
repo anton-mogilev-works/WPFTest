@@ -1,0 +1,4 @@
+﻿[*.cs]
+
+# CS0184: 'Выражение, заданное выражению is не может иметь указанный тип
+dotnet_diagnostic.CS0184.severity = silent
